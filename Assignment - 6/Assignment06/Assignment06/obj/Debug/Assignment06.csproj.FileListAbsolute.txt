@@ -1,0 +1,8 @@
+F:\Phase 3\Day 6\Assignment - 6\Assignment06\Assignment06\bin\Debug\Assignment06.exe.config
+F:\Phase 3\Day 6\Assignment - 6\Assignment06\Assignment06\bin\Debug\Assignment06.exe
+F:\Phase 3\Day 6\Assignment - 6\Assignment06\Assignment06\bin\Debug\Assignment06.pdb
+F:\Phase 3\Day 6\Assignment - 6\Assignment06\Assignment06\obj\Debug\Assignment06.csproj.AssemblyReference.cache
+F:\Phase 3\Day 6\Assignment - 6\Assignment06\Assignment06\obj\Debug\Assignment06.csproj.SuggestedBindingRedirects.cache
+F:\Phase 3\Day 6\Assignment - 6\Assignment06\Assignment06\obj\Debug\Assignment06.csproj.CoreCompileInputs.cache
+F:\Phase 3\Day 6\Assignment - 6\Assignment06\Assignment06\obj\Debug\Assignment06.exe
+F:\Phase 3\Day 6\Assignment - 6\Assignment06\Assignment06\obj\Debug\Assignment06.pdb
